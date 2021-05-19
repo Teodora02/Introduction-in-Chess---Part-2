@@ -1,0 +1,107 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+#main-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+#main-title {
+    margin-bottom: 2rem;
+    width: 100%;
+    text-align: center;
+}
+
+#cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 95%;
+}
+
+.card {
+    width: 25rem;
+    height: 30rem;
+    background-color: #d0eff2;
+    margin: 0.5rem;
+}
+
+.inner-card {
+    margin: 2rem;
+}
+
+.name, .title, .description {
+    pointer-events: none;
+}
+
+.name:after, .title:after, .description:after {
+    pointer-events: all;
+}
+
+.name:after {
+    content: ' edit';
+    color: #53d3e0;
+    cursor: pointer;
+}
+
+.title {
+    margin: 2rem 0;
+    color: gray;
+}
+
+.title:after {
+    content: ' edit';
+    color: #53d3e0;
+    cursor: pointer;
+}
+
+.description:after {
+    content: ' edit';
+    color: #53d3e0;
+    cursor: pointer;
+}
+
+#add-title {
+    margin: 2rem 0;
+}
+
+#add-player * {
+    display: block;
+    margin: 1rem 0;
+}
+
+textarea {
+    resize: none;
+    outline: royalblue;
+}
+
+#add-btn {
+    padding: 1rem 2.5rem;
+    margin-bottom: 4rem;
+}
+
+
+.delete-btn {
+    color: red;
+    font-size: 128%;
+    font-weight: 800;
+    cursor: pointer;
+}

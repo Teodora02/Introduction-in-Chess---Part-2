@@ -1,0 +1,76 @@
+{
+  "players": [
+    {
+      "id": 3,
+      "name": "Emanuel Lasker",
+      "title": "Chess Grandmaster",
+      "description": "GM Bobby Fischer was the 11th official world champion as well as the first and only American world champion. He is considered by many to be the most famous chess player ever. From 1970 to 1971 Fischer won 20 consecutive games against world-class opposition, an unprecedented and mind-boggling achievement that will most likely never be equaled. This feat is counted among the seven most amazing chess records."
+    },
+    {
+      "id": 4,
+      "name": "Magnus Carlsen",
+      "title": "The Third Official World Champion",
+      "description": "Jose Raul Capablanca was the third official world champion and possibly the most talented chess player ever to play the game. From 1916 through 1924 he amassed a tournament record of 40 wins and 23 draws, an unprecedented feat at the time and still a historically significant achievement. Capablanca's talent and skill were unmatched during his eight-year period."
+    },
+    {
+      "id": 5,
+      "name": "Mikhail Botvinnik",
+      "title": "The 12th Official World Champion",
+      "description": "GM Anatoly Karpov was the 12th world champion and reigned from 1975 to 1985 while also being the FIDE world champion from 1993 to 1999. Karpov was an exceptionally well-rounded player, but his specialty was positional binds, prophylactic play, and wonderful endgame technique."
+    },
+    {
+      "id": 6,
+      "name": "Bobby Fischer",
+      "title": "The Father Of The Soviet Chess School.",
+      "description": "GM Mikhail Botvinnik is known as the \"father of the Soviet chess school.\" The sixth world champion reigned from 1948 to 1963 (with two brief intermissions) and was a top player for over 30 years. Botvinnik's style was dictated by iron logic and flexibility, although he was extremely talented with methodical and strategical planning. His flexible style allowed him to adapt to all different types of playing styles."
+    },
+    {
+      "id": 7,
+      "name": "Vladimir Kramnik",
+      "title": "Grandmaster",
+      "description": "GM Vladimir Kramnik was world champion from 2000 to 2007. He became the classical world champion by dethroning the legendary Kasparov in 2000, defended his title in 2004 against GM Peter Leko and in 2006 faced the FIDE world champion Topalov in a title unification match. Kramnik defeated Topalov to become the first undisputed world champion since Kasparov in 1993."
+    },
+    {
+      "id": 8,
+      "name": "Mikhail Tal",
+      "title": "The Second Official World Champion.",
+      "description": "Emanuel Lasker was the second official world champion and held the title for 27 years. His reign from 1894 to 1921 is the longest of any world chess champion, and his playing career lasted five decades. Lasker defeated the first official world champion Wilhelm Steinitz in 1894, and he defended his title five times against a host of world-class contenders, including Frank Marshall, Siegbert Tarrasch, David Janowsky, and Carl Schlechter."
+    },
+    {
+      "id": 9,
+      "name": "Jose Capablanca",
+      "title": "The Magician from Riga.",
+      "description": "GM Mikhail Tal, also known as the \"Magician from Riga,\" was the eighth official world champion He defeated Botvinnik in 1960 to earn the crown at the age of 23 and a half, becoming the youngest world champion in history at the time (although this record was broken by both Kasparov and Carlsen)."
+    },
+    {
+      "id": 10,
+      "name": "Alexander Alekhine",
+      "title": "The Fourth Official World Champion.",
+      "description": "Alexander Alekhine was the fourth official world champion and held the title from 1927 to 1946 (with an exception during 1935-1937). He was a brilliant and well-rounded player with a special ability for combinational play in complex positions. He also taught the chess world that rules and principles can be broken based on concrete analysis of the specific and unique position."
+    },
+    {
+      "id": 11,
+      "name": "Fabiano Caruana",
+      "title": "Chess Grandmaster",
+      "description": "Fabiano Luigi Caruana is an American-Italian chess player. A chess prodigy, he became a grandmaster at the age of 14 years, 11 months, and 20 days—the youngest grandmaster in the history of both Italy and the United States at the time."
+    },
+    {
+      "id": 12,
+      "name": "Levon Aronian",
+      "title": "Chess Grandmaster",
+      "description": "Levon Grigori Aronian is an Armenian chess grandmaster, who will play for the USA. He was awarded the title by FIDE in 2000. On the March 2014 FIDE rating list, he was ranked number two in the world and had an Elo rating of 2830, making him the fourth-highest rated player in history."
+    },
+    {
+      "name": "Garry Kasparovv",
+      "title": "IDK",
+      "description": "gfh",
+      "id": 13
+    },
+    {
+      "name": "Viswanathan Anand",
+      "title": "Chess Grandmaster",
+      "description": "Viswanathan Anand is an Indian chess grandmaster and former world chess champion. He became the first grandmaster from India in 1988, and is one of the few players to have surpassed an Elo rating of 2800, a feat he first achieved in 2006. Anand is a five-time world chess champion.",
+      "id": 14
+    }
+  ]
+}
